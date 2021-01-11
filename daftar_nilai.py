@@ -1,16 +1,3 @@
-# UAS-2020-2021
-
-# Nama  : Rafi Ubaidillah 
-# Nim   : 312010090
-# kelas : TI 20 A.1
-
-# Soal
-
-![soal](foto/soal.png)
-
-# daftar_nilai.py
-
-````
 data = []
 data = {}
 print("PROGRAM MENAMPILKAN DAFTAR NILAI MAHASISWA")
@@ -64,7 +51,3 @@ while True:
     elif c.lower() == 'k':
         print("Keluar")
         break
-````
-
-![daftar](foto/daftar.png)
-
