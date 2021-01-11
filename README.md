@@ -140,3 +140,7 @@ print("Keluar")
 ```
 * hasil dari program yang telah dibuat
 ![daftar](foto/daftar.png)
+
+# TERIMA KASIH
+
+![uby](foto/uby.png)
