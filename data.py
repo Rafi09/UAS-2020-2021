@@ -1,6 +1,6 @@
 # UAS-2020-2021
 
-# Nama  : Rafi Ubaidillah 
+# Nama  : Rafi Ubaidillah
 # Nim   : 312010090
 # kelas : TI 20 A.1
 
