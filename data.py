@@ -8,7 +8,7 @@
 
 ![soal](foto/soal.png)
 
-* Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
+* Pada tugas UAS, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 ### Berikut inputannya
 
 ```python

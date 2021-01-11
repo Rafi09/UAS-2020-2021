@@ -1,5 +1,7 @@
 # UAS-2020-2021
 
+![logo](foto/logo.png)
+
 # Nama  : Rafi Ubaidillah 
 # Nim   : 312010090
 # kelas : TI 20 A.1
@@ -8,7 +10,7 @@
 
 ![soal](foto/soal.png)
 
-* Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
+* Pada tugas UAS, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 ### Berikut inputannya
 
 ```python
